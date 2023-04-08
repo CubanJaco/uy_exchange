@@ -1,0 +1,10 @@
+*.csv
+
+.idea/
+.idea/*
+
+.venv/
+.venv/*
+
+.DS_Store/
+.DS_Store/*
