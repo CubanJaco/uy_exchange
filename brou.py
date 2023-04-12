@@ -54,8 +54,8 @@ def get_currencies():
         file_name = ''
         if currency == 'Dólar eBROU':
             file_name = 'usd_brou'
-        # elif currency == 'Dólar':
-        #     file_name = 'usd'
+        elif currency == 'Dólar':
+            file_name = 'usd'
         # elif currency == 'Euro':
         #     file_name = 'eur'
 
